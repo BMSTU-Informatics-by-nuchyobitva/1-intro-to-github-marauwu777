@@ -2,4 +2,4 @@
 # Семинар 1
 1) Текст удален
 2) [ссылка на репозиторий](https://github.com/marauwu777/Test)
-3) Обучение [pic.me](obuchalka.png)
+3) Обучение </br>[pic.me](obuchalka.png)
